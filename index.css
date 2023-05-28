@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+    width: 750px;
+    height: 550px;
+}
+.container{
+    width: auto;
+    height: auto;
+    background-color: cadetblue;
+}
