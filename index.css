@@ -25,7 +25,6 @@ header>.nav>ul>li{
     flex-direction: column;
     width: auto;
     height: auto;
-    background-color: cadetblue;
     align-items: center;
     margin-top: 25pt;
 }
